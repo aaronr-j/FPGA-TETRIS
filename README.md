@@ -8,7 +8,7 @@ Line clearing and score tracking
 LFSR-based pseudo-random piece generation
 PLL-generated clocks for game timing and video synchronization
 
-# Hardware
+## Hardware
 Intel/Altera DE10-Lite FPGA
 VGA monitor
 On-board buttons and switches for user input
